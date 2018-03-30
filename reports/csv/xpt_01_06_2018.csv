@@ -1,0 +1,485 @@
+stage,ticker,drug,date
+Phase 2,CELG,OTEZLA,12/31/2017
+Phase 2,CELG,GED-0301,12/31/2017
+Phase 3,DCTH,Melphalan Hepatic Delivery System (Melphalan HDS),12/31/2017
+Phase 2a,RNN,Supinoxin,12/31/2017
+Phase 2,RNN,RX-3117,12/31/2017
+Phase 2a,RNN,Archexin,12/31/2017
+Phase 2,RXII,Samcyprone - RXI-SCP-1502,12/31/2017
+Phase 2,TCON,TRC105,12/31/2017
+Phase 2,EIGR,Ubenimex - LIBERTY,01/08/2018
+Phase 2,VNDA,HETLIOZ (tasimelteon),01/08/2018
+Phase 2,SAGE,SAGE-217,01/09/2018
+PDUFA priority review,LLY,Abemaciclib - MONARCH 1 and 2,01/10/2018
+PDUFA,LPCN,LPCN 1021,01/10/2018
+Phase 2,RIGL,Fostamatinib,01/10/2018
+PDUFA priority review,ARDM,Linhaliq (Pulmaquin),01/11/2018
+Phase 3,AXSM,AXS-02 CREATE-1,01/15/2018
+Phase 3,AXSM,AXS-02 COAST-1,01/15/2018
+Phase 2,RVNC,RT002,01/15/2018
+Phase 2,BLRX,BL-8040 in combination with KEYTRUDA - COMBAT trial,01/18/2018
+Phase 3,EXEL,XL184 cabozantinib (CELESTIAL),01/19/2018
+PDUFA,SGYP,Trulance (plecanatide),01/24/2018
+PDUFA,AAAP,Lutathera,01/26/2018
+Phase 2,AXON,Intepirdine,01/31/2018
+Phase 2b,AXON,Intepirdine - HEADWAY-DLB,01/31/2018
+Phase 2,AXON,Nelotanserin,01/31/2018
+Phase 2,KDMN,KD025,01/31/2018
+Phase 3,PHMMF,Zepsyre(PM1183),01/31/2018
+Phase 2,XLRN,ACE-083,01/31/2018
+PDUFA,AMAG,Feraheme,02/02/2018
+Phase 1/2,AVEO,Tivozanib + Opdivo,02/08/2018
+PDUFA priority review,GILD,Bictegravir/F/TAF,02/12/2018
+PDUFA,AMAG,Makena - auto injector,02/14/2018
+PDUFA,ATRS,Makena - auto injector,02/14/2018
+PDUFA,PCRX,EXPAREL,02/14/2018
+Phase 2,KURA,Tipifarnib,02/15/2018
+PDUFA,APRI,Vitaros,02/17/2018
+PDUFA,KMPH,KP201/APAP,02/23/2018
+Phase 1/2,AST,AST-OPC1 SCiSTAR,02/28/2018
+PDUFA priority review,AZN,Lynparza,02/28/2018
+Phase 3,CRMD,Neutrolin - LOCK-IT 100,02/28/2018
+Phase 2,MDGL,MGL-3196,02/28/2018
+PDUFA priority review,MRK,Lynparza,02/28/2018
+Phase 2,MRNS,Ganaxolone,02/28/2018
+Phase 1/2,NVAX,NanoFlu vaccine,02/28/2018
+Phase 3,ONTX,IV Rigosertib - INSPIRE,02/28/2018
+Phase 1/2,RXII,RXI-109-1501,02/28/2018
+PDUFA,SRNE,ZTlido (lidocaine patch 1.8%),02/28/2018
+PDUFA priority review,VRTX,Tezacaftor (VX-661) / ivacaftor,02/28/2018
+PDUFA,OTIC,OTIPRIO,03/02/2018
+PDUFA,BMY,Opdivo -  4 week applications,03/05/2018
+Phase 2b,BIIB,Natalizumab (α4-integrin inhibitor),03/30/2018
+Phase 2b,ABIO,Gencaro - GENETIC-AF trial,03/31/2018
+Phase 3,ACOR,Tozadenant,03/31/2018
+Phase 3,AIMT,AR101 PALISADE,03/31/2018
+Phase 1/2,ALT,NasoVAX,03/31/2018
+Phase 2a,ANAB,ANB020,03/31/2018
+Phase 3,ANTH,Sollpura - RESULT,03/31/2018
+Phase 2,ARNA,APD371,03/31/2018
+Phase 2,ARNA,Etrasimod,03/31/2018
+Phase 2,AXON,Nelotanserin,03/31/2018
+Phase 3,BHVN,Rimegepant,03/31/2018
+Phase 3,BMY,CM-227 – Opdivo + Yervoy,03/31/2018
+Phase 2,BPTH,Prexigebersen,03/31/2018
+Phase 1/2,CBIO,CB 2679d/ ISU304,03/31/2018
+Phase 2,CDTX,Rezafungin (CD101) IV - STRIVE,03/31/2018
+Phase 3,CELG,REVLIMID - AUGMENT NHL-007,03/31/2018
+Phase 2,CLBS,CLBS03,03/31/2018
+Phase 3,CLSD,Suprachoroidal CLS-TA - PEACHTREE,03/31/2018
+Phase 2,CORT,CORT125134,03/31/2018
+Phase 2,CYTK,CK-2127107,03/31/2018
+Phase 3,DERM,Olumacostat glasaretil (DRM01),03/31/2018
+Phase 3,EARS,Keyzilen (AM-101) - TACTT3,03/31/2018
+Phase 3,EDGE,EG-1962,03/31/2018
+Phase 2,ESPR,Bempedoic Acid - 1002-039,03/31/2018
+Phase 2b,EYEG,EGP-437,03/31/2018
+Phase 2,FGEN,Pamrevlumab (FG-3019),03/31/2018
+Phase 2,FLKS,FLX-787 (Aust),03/31/2018
+Phase 2b,GALE,NeuVax in combination with Herceptin,03/31/2018
+Phase 2,GERN,Imetelstat - IMbarkStudy,03/31/2018
+Phase 2,GILD,GS-9674,03/31/2018
+Phase 2,GILD,GS-9674,03/31/2018
+Phase 2,GILD,Entospletinib,03/31/2018
+Phase 2,GLMD,Aramchol - ARRIVE,03/31/2018
+Phase 3,GSK,Dolutegravir + lamivudine (GEMINI 1),03/31/2018
+Phase 2,GTHX,Trilaciclib,03/31/2018
+Phase 3,GWPH,Epidiolex,03/31/2018
+Phase 2,GWPH,GWP42006 (CBDV),03/31/2018
+Phase 2,IMRN,IMM-124E,03/31/2018
+Phase 1,MBIO,MB-102,03/31/2018
+Phase 1,MBIO,MB-101,03/31/2018
+Phase 1/2,MBVX,MVT-5873,03/31/2018
+Phase 1b,MCRB,SER-262,03/31/2018
+Phase 2b,MESO,MPC-150-IM - Class IV,03/31/2018
+Phase 3,MESO,MSC-100-IV,03/31/2018
+Phase 3,MRK,(MK-3475-189/KEYNOTE-189),03/31/2018
+Phase 2,MRTX,Mocetinostat and durvalumab,03/31/2018
+Phase 2,MYOK,MYK-461 - PIONEER-HCM,03/31/2018
+Phase 2,OBSV,OBE001 - IMPLANT2,03/31/2018
+Phase 3,PFE,Tanezumab,03/31/2018
+Phase 3,PFE,Tanezumab,03/31/2018
+Phase 2,PLX,OPRX-106,03/31/2018
+Phase 2b,PTGX,PTG-100,03/31/2018
+Phase 1/2,RARE,DTX301,03/31/2018
+Phase 3,REGN,Praluent (alirocumab) ODYSSEY OUTCOMES,03/31/2018
+Phase 2,RETA,Bardoxolone methyl - LARIAT,03/31/2018
+Phase 2,RETA,Omaveloxolone - MOTOR,03/31/2018
+Phase 1/2,RGLS,RG-012,03/31/2018
+Phase 2,SAGE,SAGE-217,03/31/2018
+Phase 2,SMMT,Ezutromid,03/31/2018
+Phase 2,SNY,SAR439684 (PD-1),03/31/2018
+Phase 2,SPHS,Topsalysin (PRX302),03/31/2018
+Phase 3,SPPI,SPI-2012 (ROLONTIS),03/31/2018
+Phase 2,TCON,TRC105 and Inlyta,03/31/2018
+Phase 3,TTPH,Eravacycline (TP-434) - IGNITE3,03/31/2018
+Phase 3,VBLT,VB-111,03/31/2018
+Phase 3,VICL,ASP0113 Vaccine,03/31/2018
+Phase 3,VTVT,Azeliragon - STEADFAST,03/31/2018
+Phase 1b,VYGR,VY-AADC01,03/31/2018
+PDUFA priority review,MRK,Keytruda,04/03/2018
+PDUFA,THERF,Ibalizumab,04/03/2018
+PDUFA priority review,CLVS,Rucaparib ARIEL3,04/06/2018
+PDUFA priority review,LLY,Abemaciclib - MONARCH 3,04/12/2018
+PDUFA priority review,BMY,CM-214 – Opdivo + Yervoy,04/16/2018
+PDUFA priority review,RARE,KRN23 Burosumab,04/17/2018
+PDUFA,RIGL,Fostamatinib,04/17/2018
+PDUFA priority review,ABBV,Elagolix,04/27/2018
+PDUFA priority review,NBIX,Elagolix,04/27/2018
+PDUFA,SCMP,Lubiprostone,04/28/2018
+Phase 3,ALKS,ALKS 3831 - ENLIGHTEN-2,04/30/2018
+PDUFA,AMGN,KYPROLIS (ENDEAVOR),04/30/2018
+Phase 2b,KPTI,Selinexor - STORM,04/30/2018
+Phase 3,NBRV,Lefamulin - LEAP 2,04/30/2018
+PDUFA priority review,PGNX,Azedra,04/30/2018
+PDUFA priority review,SGEN,ADCETRIS  in combination with chemotherapy ECHELON-1,05/01/2018
+PDUFA,PTLA,Andexanet alfa,05/04/2018
+PDUFA priority review,AZN,Tagrisso - FLAURA,05/15/2018
+PDUFA,AMGN,Erenumab,05/17/2018
+PDUFA,NVS,Erenumab,05/17/2018
+PDUFA priority review,DOVA,Avatrombopag,05/21/2018
+PDUFA priority review,BMRN,Pegvaliase,05/25/2018
+PDUFA,REPH,Intravenous (IV) meloxicam,05/26/2018
+PDUFA,AMGN,Prolia (denosumab),05/28/2018
+PDUFA,TXMD,Yuvvexy - TX-004HR,05/29/2018
+PDUFA,KTOV,KIT-302,05/31/2018
+PDUFA priority review,NVS,Tafinlar (dabrafenib) and Mekinist (trametinib),05/31/2018
+Phase 2,IDRA,IMO-2125 + ipilimumab - ILLUMINATE 204,06/01/2018
+PDUFA,PFE,Xeljanz,06/13/2018
+PDUFA,VRX,IDP-118,06/18/2018
+PDUFA priority review,AKAO,Plazomicin,06/25/2018
+PDUFA priority review,GWPH,Epidiolex,06/27/2018
+Phase 3,ABBV,Elagolix,06/30/2018
+Phase 2,ABBV,Rova-T (TRINITY),06/30/2018
+Phase 2,ACRS,ATI-50002,06/30/2018
+Phase 2b,AGN,ATOGEPANT,06/30/2018
+Phase 3,AGN,UBROGEPANT,06/30/2018
+PDUFA,AGN,ESMYA  (ulipristal acetate),06/30/2018
+Phase 2a,ALRN,ALRN-6924,06/30/2018
+Phase 3,AMGN,ABP 798,06/30/2018
+Phase 2a,ANAB,ANB020,06/30/2018
+Phase 3,ANIK,Cingal,06/30/2018
+Phase 3,ARGS,rocapuldencel-T (AGS-003) ADAPT Trial,06/30/2018
+Phase 1,ARGS,AGS-004 and vorinostat,06/30/2018
+PDUFA,ARRY,Binimetinib - COLUMBUS,06/30/2018
+Phase 3,AVEO,TIVO-3 - tivozanib,06/30/2018
+Phase 2,AVIR,BTA074 5% topical gel,06/30/2018
+Phase 3,AXSM,AXS-05 STRIDE-1,06/30/2018
+Phase 3,AZN,Selumetinib - ASTRA,06/30/2018
+Phase 3,AZN,PT010,06/30/2018
+Phase 3,AZN,Lynparza,06/30/2018
+Phase 3,AZN,Durvalumab +/- tremelimumab (MYSTIC),06/30/2018
+Phase 3,AZN,Durvalumab +/- tremelimumab (KESTREL),06/30/2018
+Phase 3,AZN,Durvalumab +/- tremelimumab (EAGLE),06/30/2018
+Phase 3,AZN,Durvalumab +/- tremelimumab (ARCTIC),06/30/2018
+Phase 3,BMY,CM-651 – Opdivo + Yervoy,06/30/2018
+Phase 3,BMY,CM-511 – Opdivo + Yervoy,06/30/2018
+Phase 3,BMY,CM-451 – Opdivo + Yervoy,06/30/2018
+Phase 3,BMY,CM-331– Opdivo,06/30/2018
+Phase 2,BMY,CM-548 - Opdivo+SOC,06/30/2018
+Phase 1/2,BOLD,AT342 - VALENS,06/30/2018
+Phase 2,CBIO,Marzeptacog alfa,06/30/2018
+Phase 2b,CLDX,Glembatumumab vedotin,06/30/2018
+Phase 2,CLSD,Suprachoroidal CLS-TA - TYBEE,06/30/2018
+Phase 1/2,CLSD,Suprachoroidal CLS-TA - HULK,06/30/2018
+Phase 2b,CNAT,Emricasan,06/30/2018
+Phase 3,CORI,Corplex Donepezil,06/30/2018
+Phase 3,CPRX,Firdapse,06/30/2018
+Phase 3,CTIC,PIXUVRI - PIX306 Trial,06/30/2018
+Phase 2b,DBVT,Viaskin Milk,06/30/2018
+Phase 3,ESPR,"Bempedoic acid - CLEAR LDL-C Lowering Program 1002-046, 1002-047 and 1002-048",06/30/2018
+Phase 3,ESPR,Bempedoic acid (ETC-1002-040) - Clear Harmony,06/30/2018
+Phase 3,EXEL,IMblaze370 - cobimetinib and atezolizumab,06/30/2018
+Phase 3,EYEG,EGP-437,06/30/2018
+Phase 2,FBIO,CEVA101,06/30/2018
+Phase 2,FBIO,Pepvax vaccine,06/30/2018
+Phase 3,FBIO,IV Tramadol,06/30/2018
+Phase 2,FLKS,FLX-787,06/30/2018
+Phase 2b,GEMP,Gemcabene - INDIGO-1,06/30/2018
+Phase 2,GILD,Filgotinib - EQUATOR,06/30/2018
+Phase 2,GILD,Selonsertib (GS-4997),06/30/2018
+Phase 2b,GLMD,Aramchol - ARREST,06/30/2018
+Phase 2,GLPG,GLPG2737 - PELICAN,06/30/2018
+Phase 2,GLPG,Filgotinib - TORTUGA,06/30/2018
+Phase 2,GLPG,Filgotinib - EQUATOR,06/30/2018
+Phase 1b,GTHX,G1T38 plus Faslodex,06/30/2018
+Phase 2,IDRA,IMO-8400,06/30/2018
+Phase 1,IMMP,Eftilagimod alpha and Keytruda,06/30/2018
+Phase 3,INCY,Epacadostat with Keytruda - ECHO-301,06/30/2018
+Phase 3,INCY,Ruxolitinib - REACH 1,06/30/2018
+Phase 1/2,IONS,IONIS-HTT Rx,06/30/2018
+Phase 1/2,JNCE,JTX-2011,06/30/2018
+Phase 3,JNJ,Esketamine,06/30/2018
+Phase 2,KURA,Tipifarnib,06/30/2018
+Phase 2,MACK,MM-141 - CARRIE,06/30/2018
+Phase 3,MDWD,NexoBrid,06/30/2018
+Phase 2,MEIP,Pracinostat in combination with Vidaza,06/30/2018
+Phase 2,MGNX,Margetuximab in combination with pembrolizumab,06/30/2018
+Phase 2,MTNB,MAT2501,06/30/2018
+Phase 3,NBIX,Elagolix,06/30/2018
+Phase 2,NLNK,Indoximod + gemcitabine and nab-paclitaxel,06/30/2018
+Phase 3,NVS,LEE011: MONALEESA-3,06/30/2018
+Phase 3,PBYI,Neratinib,06/30/2018
+Phase 3,PFNX,PF708 and Forteo,06/30/2018
+Phase 2b,PRTA,NEOD001 PRONTO,06/30/2018
+Phase 2,PSTI,PLX-PAD (stem cells),06/30/2018
+Phase 2a,RNN,RX-3117 in combination with Abraxane,06/30/2018
+Phase 1b,RXDX,RXDX-105,06/30/2018
+Phase 2,RYTM,Setmelanotide,06/30/2018
+Phase 2,RYTM,Setmelanotide,06/30/2018
+Phase 2,RYTM,Setmelanotide,06/30/2018
+Phase 3,SBBP,COR-003 (levoketoconazole) - SONICS,06/30/2018
+Phase 1/2,SGMO,SB-525 cDNA gene therapy,06/30/2018
+Phase 1/2,SGMO,SB-318,06/30/2018
+Phase 1/2,SGMO,SB-FIX,06/30/2018
+Phase 1/2,SGMO,SB-913 - CHAMPIONS,06/30/2018
+Phase 1/2,SNDX,Entinostat plus Keytruda - ENCORE 601,06/30/2018
+Phase 3,SNDX,E2112,06/30/2018
+Phase 3,SNGX,SGX301 (synthetic hypericin),06/30/2018
+Phase 2,SVRA,Aironite - INDIE,06/30/2018
+Phase 2a,TBPH,TD-9855,06/30/2018
+Phase 1/2,TCON,TRC253,06/30/2018
+Phase 2,TCON,TRC105 and Nexavar,06/30/2018
+Phase 3,TGTX,TG-1101 and TGR-1202 - UNITY-CLL study,06/30/2018
+Phase 3,TNXP,TNX-102 SL,06/30/2018
+Phase 2/3,TOCA,Toca 511 & Toca FC,06/30/2018
+Phase 2,TPIV,TPIV200,06/30/2018
+Phase 1/2,TSRO,Niraparib and Keytruda (TOPACIO),06/30/2018
+Phase 3,URGN,MitoGel - OLYMPUS,06/30/2018
+Phase 2,VICL,VCL-HB01 HSV-2 Therapeutic Vaccine,06/30/2018
+Phase 2,VKTX,VK2809,06/30/2018
+Phase 2,VTGN,AV-101,06/30/2018
+Phase 3,ZGNX,ZX008 - Study 1504,06/30/2018
+PDUFA,DRRX,RBP-7000,07/28/2018
+PDUFA,INSY,Buprenorphine,07/28/2018
+Phase 3,ALNY,Givosiran,07/31/2018
+Phase 2,BLRX,BL-8040,07/31/2018
+Phase 2/3,BYSI,Plinabulin (Trial 105),07/31/2018
+Phase 3,EBIO,Vicinium,07/31/2018
+Phase 3,FOMX,FMX103,07/31/2018
+Phase 3,FOMX,FMX101 - FX2017-22,07/31/2018
+Phase 2,GNMX,AEVI-001 (NFC-1),07/31/2018
+Phase 1/2,GNMX,AEVI-002 (Anti-LIGHT mAb),07/31/2018
+Phase 3,LLY,Ramucirumab,07/31/2018
+Phase 2,MRTX,Sitravatinib plus nivolumab,07/31/2018
+Phase 3,NVAX,RSV vaccine - prepare trial,07/31/2018
+Phase 2b,OBSV,OBE2109 - EDELWEISS,07/31/2018
+Phase 3,RDHL,RHB-104 MAP US,07/31/2018
+Phase 2b,SCYX,SCY-078 - oral,07/31/2018
+Phase 1/2,SNSS,SNS-062,07/31/2018
+Phase 2,VNDA,Tradipitant,07/31/2018
+Phase 3,XLRN,Luspatercept - BELIEVE,07/31/2018
+Phase 3,XLRN,Luspatercept - MEDALIST,07/31/2018
+Phase 2,ZFGN,ZGN-1061,07/31/2018
+PDUFA,REGN,EYLEA,08/11/2018
+PDUFA,AKCA,Volanesorsen - APPROACH,08/30/2018
+Phase 3,ALXN,Eculizumab,08/31/2018
+Phase 1/2,AGLE,AEB1102,09/30/2018
+Phase 1/2,AGTC,rAAV-hRS1,09/30/2018
+–,AMRN,Vascepa REDUCE-IT outcomes trial,09/30/2018
+Phase 3,AQXP,AQX-1125 LEADERSHIP,09/30/2018
+Phase 2,FLKS,FLX-787 - COMMEND US trial,09/30/2018
+Phase 3,GILD,F/TAF (Descovy),09/30/2018
+Phase 3,HSGX,NeoCart,09/30/2018
+Phase 3,PGNX,1404,09/30/2018
+Phase 2,RGLS,RG-012 - HERA,09/30/2018
+Phase 3,VTL,VTI-308,09/30/2018
+Phase 3,CNCE,AVP-786,09/30/2018
+PDUFA,LLY,"Galcanezumab - EVOLVE-1, EVOLVE-2 and REGAIN",10/10/2018
+PDUFA,PRTK,Sarecycline,10/19/2018
+PDUFA,TRVN,Oliceridine (TRV130),11/02/2018
+Phase 3,ABBV,ABT-494 - SELECT-COMPARE,12/31/2018
+Phase 3,ABBV,Imbruvica - PHOENIX,12/31/2018
+Phase 2,ABUS,"ARB-1467, tenofovir, and pegylated interferon",12/31/2018
+Phase 1/2,ACIU,ACI-24 (anti-Abeta vaccine),12/31/2018
+Phase 2,ACRS,ATI-50001,12/31/2018
+Phase 2b,ACRS,A-101,12/31/2018
+Phase 1/2,ADVM,ADVM-043,12/31/2018
+Phase 2b,AGN,Brazikumab,12/31/2018
+Phase 3,AGN,ABICIPAR,12/31/2018
+Phase 3,AKBA,Vadadustat - TRILO2GY,12/31/2018
+Phase 2,AKBA,Vadadustat - FO2RWARD,12/31/2018
+Phase 2b,AKCA,AKCEA-APO(a)-LRx,12/31/2018
+Phase 2b,ALDX,ADX-102,12/31/2018
+Phase 3,ALDX,ADX-102,12/31/2018
+Phase 2,ALDX,ADX-102,12/31/2018
+Phase 1/2,ALNY,ALN-CC5 (cemdisiran),12/31/2018
+Phase 1/2,ALXN,ALXN1210,12/31/2018
+Phase 2,ARGX,ARGX-113,12/31/2018
+Phase 2,ARGX,ARGX-113,12/31/2018
+Phase 3,ATNX,Oraxol,12/31/2018
+Phase 2,ATOS,Endoxifen,12/31/2018
+Phase 2,ATOS,Endoxifen,12/31/2018
+Phase 2,AUPH,Voclosporin,12/31/2018
+Phase 2,AUPH,Voclosporin,12/31/2018
+Phase 3,AZN,Farxiga - DECLARE,12/31/2018
+Phase 3,AZN,Benralizumab - TERRANOVA,12/31/2018
+Phase 3,AZN,Farxiga - DECLARE,12/31/2018
+Phase 3,AZN,Durvalumab +/- tremelimumab (NEPTUNE),12/31/2018
+Phase 3,AZN,Anifrolumab,12/31/2018
+Phase 2,BIIB,Raxatrigine - BIIB074 (Nav1.7 inhibitor),12/31/2018
+Phase 2,BIIB,BAN2401 (Aβ mAb),12/31/2018
+Phase 2b,BLPH,INOpulse delivery device,12/31/2018
+Phase 2,BLPH,INOpulse delivery device,12/31/2018
+Phase 3,BLPH,INOpulse delivery device,12/31/2018
+Phase 2b,BLRX,BL-8040,12/31/2018
+Phase 3,BMY,CM-602 – Opdivo + Elo + SOC,12/31/2018
+Phase 3,BMY,CM-459 – Opdivo,12/31/2018
+Phase 3,BYSI,Plinabulin,12/31/2018
+Phase 2,CANF,Namodenoson (CF102),12/31/2018
+Phase 2,CASC,Tucatinib - MOUNTAINEER,12/31/2018
+Phase 3,CELG,REVLIMID - ROBUST,12/31/2018
+Phase 3,CELG,MM-007 OPTIMISMM,12/31/2018
+Phase 3,CELG,Oral Azacitidine - CC-486-AML-001,12/31/2018
+Phase 3,CELG,ABRAXANE - PANC-003 apact,12/31/2018
+Phase 3,CELG,ABRAXANE - IMpower 130 ( I/O Combo),12/31/2018
+Phase 3,CELG,ABRAXANE - IMpower 131 ( I/O Combo),12/31/2018
+Phase 3,CELG,ABRAXANE - IMPassion ( I/O Combo),12/31/2018
+Phase 2,CFRX,CF-301,12/31/2018
+Phase 2,CNAT,Emricasan,12/31/2018
+Phase 2a,CNCE,CTP-543,12/31/2018
+Phase 3,EGRX,Fulvestrant,12/31/2018
+Phase 2,EIGR,Exendin 9-39,12/31/2018
+Phase 2,EIGR,Ubenimex - ULTRA,12/31/2018
+Phase 2,EPZM,Tazemetostat,12/31/2018
+Phase 3,ESPR,Bempedoic Acid/ Ezetimibe (1002FDC-053),12/31/2018
+Phase 3,FGEN,Roxadustat - ANDES,12/31/2018
+Phase 2,FLXN,Zilretta - SHIP,12/31/2018
+Phase 2,GEMP,Gemcabene - AZURE-1,12/31/2018
+Phase 2,GILD,GS-9876,12/31/2018
+Phase 2,GILD,GS-5734,12/31/2018
+Phase 2,GILD,Axicabtagene ciloleucel - KTE-C19 (ZUMA-2),12/31/2018
+Phase 1/2,GILD,Axicabtagene ciloleucel - KTE-C19 (ZUMA-3),12/31/2018
+Phase 1/2,GILD,Axicabtagene ciloleucel - KTE-C19 (ZUMA-4),12/31/2018
+Phase 3,GSK,Closed Triple - CAPTAIN,12/31/2018
+Phase 2,GTXI,Enobosarm,12/31/2018
+Phase 3,GWPH,Epidiolex,12/31/2018
+Phase 3,GWPH,Epidiolex,12/31/2018
+Phase 3,HALO,PEGPH20 - HALO-301,12/31/2018
+Phase 1b,HTBX,HS-110 and nivolumab (Opdivo),12/31/2018
+Phase 3,IMGN,Kadcyla (KATHERINE).,12/31/2018
+Phase 1/2,IMRN,IMM-529,12/31/2018
+Phase 2,INSY,Cannabidiol,12/31/2018
+Phase 3,INVA,Closed Triple,12/31/2018
+Phase 2,IOVA,LN-145,12/31/2018
+Phase 3,JNJ,STELARA (USTEKINUMAB),12/31/2018
+Phase 2b,KPTI,Selinexor - SADAL,12/31/2018
+Phase 3,LLY,Flortaucipir F 18 (Tau imaging agent),12/31/2018
+Phase 2,MACK,MM-121,12/31/2018
+Phase 1/2,MBRX,Annamycin,12/31/2018
+Phase 3,MRK,Epacadostat with Keytruda - ECHO-301,12/31/2018
+Phase 2,MRNS,Ganaxolone,12/31/2018
+Phase 2b,NBIX,INGREZZA - T-Force GOLD,12/31/2018
+Phase 2,NVCR,Tumor Treating Fields (TTFields) STELLAR,12/31/2018
+Phase 3,NVS,QVM149,12/31/2018
+Phase 2a,OBSV,OBE022 - PROLONG,12/31/2018
+Phase 3,OCUL,OTX-TP,12/31/2018
+Phase 2b,ONCS,ImmunoPulse IL-12 - PISCES,12/31/2018
+Phase 2,OVID,OV101 (STARS),12/31/2018
+Phase 3,PFE,Tanezumab,12/31/2018
+Phase 1/2,PRQR,QR-010,12/31/2018
+Phase 2,PULM,PUR1800,12/31/2018
+Phase 3,RDHL,RHB-105 - ERADICATE Hp 2,12/31/2018
+Phase 3,RETA,Bardoxolone methyl - CATALYST,12/31/2018
+Phase 1/2,RGNX,RGX-501,12/31/2018
+Phase 2,RIGL,Fostamatinib,12/31/2018
+Phase 3,RVNC,"RT002 - SAKURA 1, 2 and 3",12/31/2018
+Phase 3,SBBP,COR-003 (levoketoconazole) - LOGICS,12/31/2018
+Phase 3,SCYX,SCY-078 - oral - CARES,12/31/2018
+Phase 3,SCYX,SCY-078 - oral (FURI),12/31/2018
+Phase 3,SGEN,ADCETRIS in combination with chemotherapy - ECHELON-2,12/31/2018
+Phase 3,SNNA,SNA-001,12/31/2018
+Phase 3,SNNA,SNA-001,12/31/2018
+Phase 3,SVRA,Molgradex - IMPALA,12/31/2018
+Phase 3,TBPH,Closed Triple - CAPTAIN,12/31/2018
+Phase 2,TCON,TRC105,12/31/2018
+Phase 2,TCON,TRC102,12/31/2018
+Phase 3,TCON,TRC105 (TAPPAS),12/31/2018
+Phase 3,UTHR,Esuberaprost - BEAT,12/31/2018
+Phase 3,UTHR,Orenitram,12/31/2018
+Phase 3,VNDA,HETLIOZ (tasimelteon),12/31/2018
+Phase 2b,VRNA,RPL554,12/31/2018
+Phase 2,VTGN,AV-101,12/31/2018
+Phase 2,XBIT,XBIO-101,12/31/2018
+Phase 2,XNCR,XmAb5871,12/31/2018
+Phase 3,ASND,TransCon,03/31/2019
+Phase 3,CLSD,Suprachoroidal CLS-TA - SAPPHIRE,03/31/2019
+Phase 3,CLSN,ThermoDox - OPTIMA,03/31/2019
+Phase 2b,GSK,Danirixin,03/31/2019
+Phase 3,PRTO,Vonapanitase (PRT-201) PATENCY-2,03/31/2019
+Phase 2,ABBV,ABBV-8E12,06/30/2019
+Phase 3,ATNM,Iomab-B,06/30/2019
+Phase 3,ATRA,ATA 129 - ALLELE,06/30/2019
+Phase 2,BMY,CM-568 - Opdivo + Yervoy,06/30/2019
+Phase 2,CNAT,Emricasan,06/30/2019
+Phase 2,FBIO,CEVA101,06/30/2019
+Phase 3,GBT,GBT440 - HOPE,06/30/2019
+Phase 3,GSK,Tapinarof,06/30/2019
+Phase 2b,GSK,Inhaled PI3Kδ inhibitor,06/30/2019
+Phase 3,ICPT,Ocaliva (Obeticholic acid (OCA)) - REGENERATE,06/30/2019
+Phase 3,NERV,MIN-101,06/30/2019
+Phase 2,RARX,RA101495,06/30/2019
+Phase 3,RYTM,Setmelanotide,06/30/2019
+Phase 1/2,SNDX,Entinostat plus Tecentriq - ENCORE 603,06/30/2019
+Phase 2b,SNNA,SNA-120,06/30/2019
+Phase 3,TBPH,Telavancin,06/30/2019
+Phase 3,AKBA,Vadadustat - INNO2VATE,07/31/2019
+Phase 3,AKBA,Vadadustat - PRO2TECT,07/31/2019
+Phase 3,ALNY,Fitusiran (ATLAS),10/31/2019
+Phase 3,ABBV,Venetoclax,12/31/2019
+Phase 1/2,ADXS,Axalimogene filolisbac + durvalumab,12/31/2019
+Phase 2,AFMD,AFM13,12/31/2019
+Phase 3,AGN,RAPASTINEL,12/31/2019
+Phase 2,AKCA,AKCEA-ANGPTL3-LRx,12/31/2019
+Phase 2b,AKCA,AKCEA-APOCIII-LRx,12/31/2019
+Phase 2b,ANAB,ANB020,12/31/2019
+Phase 3,AZN,AZD3293,12/31/2019
+Phase 3,AZN,Durvalumab +/- tremelimumab (DANUBE),12/31/2019
+Phase 3,AZN,Brilinta (THEMIS),12/31/2019
+Phase 3,BCLI,NurOwn,12/31/2019
+Phase 3,BMRN,Vosoritide,12/31/2019
+Phase 3,CELG,REVLIMID - MAGNIFY NHL-010,12/31/2019
+Phase 3,CHMA,Mycapssa - OPTIMAL,12/31/2019
+Phase 2b,CNAT,Emricasan,12/31/2019
+Phase 3,DCPH,DCC-2618 - INVICTUS,12/31/2019
+Phase 2,GALE,NeuVax in combination with Herceptin,12/31/2019
+Phase 3,GSK,Mepolizumab - SYNAPSE,12/31/2019
+Phase 3,IMGN,Kadcyla (KAITLIN),12/31/2019
+Phase 2b,IMMP,Eftilagimod Alpha  - Active Immunotherapy PAClitaxel (AIPAC),12/31/2019
+Phase 3,INCY,Ruxolitinib - REACH 3,12/31/2019
+Phase 3,JNJ,INVOKANA - CREDENCE,12/31/2019
+Phase 3,JNJ,DARZALEX (Daratumumab),12/31/2019
+Phase 2,KALV,KVD001,12/31/2019
+Phase 2/3,KPTI,Selinexor - SEAL,12/31/2019
+Phase 3,KPTI,Selinexor - BOSTON,12/31/2019
+Phase 3,MDCO,Inclisiran,12/31/2019
+Phase 3,MRK,MK-8931 (019) - Verubecestat,12/31/2019
+Phase 3,NVS,QAW039 (fevipiprant),12/31/2019
+Phase 3,NVS,OMB157 (ofatumumab),12/31/2019
+Phase 3,NVS,Entresto - PARAGON,12/31/2019
+Phase 3,NVS,Entresto - PARADISE,12/31/2019
+Phase 3,NVS,AIN457 (Cosentyx),12/31/2019
+Phase 3,OBSV,OBE2109 - PRIMROSE,12/31/2019
+Phase 1/2,OVAS,OvaPrime,12/31/2019
+Phase 3,RETA,Bardoxolone methyl - CARDINAL,12/31/2019
+Phase 2,RETA,Omaveloxolone - MOXIe,12/31/2019
+Phase 3,VBIV,Sci-B-Vac - PROTECT and CONSTANT,12/31/2019
+Phase 2/3,ZYNE,ZYN002,12/31/2019
+Phase 2,ABBV,ABBV-8E12,06/30/2020
+Phase 3,ADXS,Axalimogene filolisbac - AIM2CERV Trial,06/30/2020
+Phase 3,AGN,RELAMORELIN,12/31/2020
+Phase 3,AZN,Durvalumab (ADJUVANT),12/31/2020
+Phase 3,BLRX,BL-8040 GENESIS,12/31/2020
+Phase 3,CATB,Edasalonexent (CAT-1004),12/31/2020
+Phase 3,CELG,REVLIMID - MAGNIFY NHL-008,12/31/2020
+Phase 3,CHMA,Mycapssa - MPOWERED,12/31/2020
+Phase 3,GSK,Daprodustat - ASCEND-D,12/31/2020
+Phase 3,INCY,Ruxolitinib - REACH 2,12/31/2020
+Phase 2,KZIA,GDC-0084,12/31/2020
+Phase 3,NVCR,Tumor Treating Fields (TTFields) METIS,12/31/2020
+Phase 3,NVS,Ruxolitinib - REACH 2,12/31/2020
+Phase 3,PFE,XTANDI,12/31/2020
+Phase 3,PRTA,NEOD001 VITAL,12/31/2020
+Phase 3,PFE,XTANDI (EMBARK),06/30/2021
+Phase 3,NVCR,Tumor Treating Fields (TTFields) LUNAR,12/31/2021
+Phase 2/3,NVS,CNP 520,12/31/2023
