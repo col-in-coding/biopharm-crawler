@@ -15,7 +15,7 @@ class FdaSpider(scrapy.Spider):
 		items = response.xpath('//table[@class="list-table"]/tbody/tr')
 		
 		for item in items:
-			ticker = item.css("td.js-td--drug strong.drug::text").extract_first()
+			ticker = item.css("td.js-td--ticker a::text").extract_first()
 			price = item.css("td.js-td--price div.price::text").extract_first()
 			drug = item.css("td.js-td--drug strong.drug::text").extract_first()
 			stage = item.css("td.js-td--stage::text").extract_first()
@@ -30,5 +30,5 @@ class FdaSpider(scrapy.Spider):
 				drug = drug.strip(),
 				stage = stage.strip(),
 				catalyst = catalyst.strip(),
-				note = "" if note is None else note.strip()+";",
+				note = note.strip(),
 				)
